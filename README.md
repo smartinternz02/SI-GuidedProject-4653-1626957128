@@ -9,7 +9,7 @@ Smart Maths tutor system is a web based graphical user interface where a user ge
 * Akshat Sharma    (19BCE10147) 
 
 # Link to the dataset
-[Shape Dataset] (https://drive.google.com/drive/folders/1LB1i53cnWHlmIEnEI2C3gtYALTXX4Awa)
+[Shape Dataset](https://drive.google.com/drive/folders/1LB1i53cnWHlmIEnEI2C3gtYALTXX4Awa)
 
 # Link to the Video Demonstration
 [Video Demo of the Smart Maths tutor system](https://drive.google.com/file/d/1qCdk6PJr1ud6CnfLHxN1N5tnRLKB62uj/view?usp=sharing)
