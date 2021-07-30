@@ -1,7 +1,7 @@
 # SI-GuidedProject-4653-1626957128
 Smart Maths tutor system is a web based graphical user interface where a user gets to draw shapes of mathematical figures such as square, triangle, circle etc. for which the output would be related formulas to the drawn figure.
 Project Video Demonstration 
-![](https://drive.google.com/file/d/1qCdk6PJr1ud6CnfLHxN1N5tnRLKB62uj/view?usp=sharing)
+[a link](https://drive.google.com/file/d/1qCdk6PJr1ud6CnfLHxN1N5tnRLKB62uj/view?usp=sharing)
 ![](Screenshots/SS1.png)
 ![](Screenshots/SS2.png)
 ![](Screenshots/SS3.png)
