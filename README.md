@@ -3,10 +3,6 @@ Smart Maths tutor system is a web based graphical user interface where a user ge
 
 # Team Members (Dense Eclipse)
 ⋅⋅* Amman Agrawal (19BCG10057)
- *Shekhar Sharma  (19BCE10140)
- *Neelangshu Nath  (19BCE10224)
- *Prateek Verma    (19BCE10358)
- *Akshat Sharma    (19BCE10147) 
 
 # Link to the Video Demonstration
 [Video Demo of the Smart Maths tutor system](https://drive.google.com/file/d/1qCdk6PJr1ud6CnfLHxN1N5tnRLKB62uj/view?usp=sharing)
