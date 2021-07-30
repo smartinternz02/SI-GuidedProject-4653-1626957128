@@ -2,7 +2,7 @@
 Smart Maths tutor system is a web based graphical user interface where a user gets to draw shapes of mathematical figures such as square, triangle, circle etc. for which the output would be related formulas to the drawn figure.
 
 # Team Members (Dense Eclipse)
-⋅⋅* Amman Agrawal (19BCG10057)
+⋅⋅*Amman Agrawal (19BCG10057)
 
 # Link to the Video Demonstration
 [Video Demo of the Smart Maths tutor system](https://drive.google.com/file/d/1qCdk6PJr1ud6CnfLHxN1N5tnRLKB62uj/view?usp=sharing)
